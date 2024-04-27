@@ -1,4 +1,12 @@
-### Hi there 👋
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xxxxxxxxxx&theme=2077)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xxxxxxxxxx&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxxxxxxxx&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=xxxxxxxxxx&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20xxxxxxxxxx)](https://github.com/xxxxxxxxxx)
 
 <!--
 **fs0414/fs0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
