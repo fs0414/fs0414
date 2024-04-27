@@ -6,7 +6,7 @@
 
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=xxxxxxxxxx&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20fs0414)](https://github.com/fs0414)
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20xxxxxxx)](https://github.com/fs0414)
 
 <!--
 **fs0414/fs0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
