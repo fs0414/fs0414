@@ -1,4 +1,4 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fs0414&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fs0414&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fs0414&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)
 
