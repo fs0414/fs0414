@@ -1,10 +1,10 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fs0414&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fs0414&theme=onedark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fs0414&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fs0414&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs0414&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs0414&layout=compact&count_private=true&show_icons=true&theme=onedark" />
 
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=fs0414&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=fs0414&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 
 <!--
 **fs0414/fs0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
